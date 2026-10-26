@@ -16,13 +16,6 @@
     <img src="https://img.shields.io/badge/Status-Cooking%20New%20Projects%20%F0%9F%94%A5-ff007f?style=for-the-badge" alt="Current Status" />
   </p>
 
-  <p align="center">
-    <a href="#about-me">About Me</a> •
-    <a href="#tech-stack">Tech Stack</a> •
-    <a href="#stats">GitHub Stats</a> •
-    <a href="#connect">Connect</a>
-  </p>
-
 </div>
 
 ---
